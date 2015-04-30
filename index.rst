@@ -14,5 +14,6 @@ are required. You can visit our demo site at https://sandbox.adlnet.gov
 
 .. toctree::
    :titlesonly:
+   :maxdepth: 2
    
-   docs/User Guide/Lights and Materials   
+   Lights and Materials <docs/User Guide/Lights and Materials>
