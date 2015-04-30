@@ -17,3 +17,4 @@ are required. You can visit our demo site at https://sandbox.adlnet.gov
    :maxdepth: 2
    
    Lights and Materials <docs/User Guide/Lights and Materials>
+   Terrain <docs/User Guide/terrain>

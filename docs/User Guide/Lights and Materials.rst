@@ -1,5 +1,9 @@
+Lights and Materials
+====================
+
+
 Introduction
-============
+------------
 
 Whether taking a photo in real life or rendering a virtual scene,
 lighting has a big part in the aesthetics of the final image. In this
