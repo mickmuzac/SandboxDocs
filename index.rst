@@ -22,4 +22,6 @@ are required. You can visit our demo site at https://sandbox.adlnet.gov
 ---------------------
 
 .. toctree::
+   :maxdepth: 1
+   
    FAQ   
