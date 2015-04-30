@@ -21,21 +21,5 @@ are required. You can visit our demo site at https://sandbox.adlnet.gov
 [[Development Plans]]
 ---------------------
 
-Contents:
-
 .. toctree::
-   :maxdepth: 2
-
-   FAQ
-   Home
-   User Guide/Lights and Materials
-   User Guide/Cameras
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-
+   FAQ   
