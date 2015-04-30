@@ -24,4 +24,4 @@ are required. You can visit our demo site at https://sandbox.adlnet.gov
 .. toctree::
    :titlesonly:
    
-   FAQ   
+   docs/User Guide/Lights and Materials   
